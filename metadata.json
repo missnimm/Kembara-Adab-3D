@@ -1,0 +1,6 @@
+{
+  "name": "Kembara Adab 3D — Adab Makan & Minum",
+  "description": "Permainan pengembaraan 3D gaya Roblox untuk subjek Pendidikan Islam Tahun 2: Adab Makan dan Minum, lengkap dengan bintang emas, lencana pencapaian, audio interaktif, dan sijil kejayaan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
